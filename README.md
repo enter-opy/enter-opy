@@ -31,7 +31,7 @@
     </a>
 </p>
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 </p>
 
 <p align="center"">
