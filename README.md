@@ -31,7 +31,7 @@
     </a>
 </p>
 
-![Spotify](https://novatorem-enter-opy.vercel.app/api/spotify)](https://open.spotify.com/user/bcgvqc145y8uw0a3zmri3eygw)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false&background_color=0d1117&border_color=ffffff)
 
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
