@@ -2,9 +2,9 @@
     <img src="res/loki.gif" width="512">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=synthwave)
 
 <br>
 <p align="center">
