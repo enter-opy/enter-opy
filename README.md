@@ -31,7 +31,8 @@
     </a>
 </p>
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+![Spotify](https://novatorem-enter-opy.vercel.app/api/spotify)](https://open.spotify.com/user/bcgvqc145y8uw0a3zmri3eygw)
+
 </p>
 
 <p align="center"">
