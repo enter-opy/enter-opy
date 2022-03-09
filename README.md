@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=tokyonight)
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
+
 <p align="center">
     <img src="res/loki.gif" width="256">
 </p>
