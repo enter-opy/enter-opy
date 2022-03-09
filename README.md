@@ -6,11 +6,13 @@
     I am an Undergraduate in Computer Science and Engineering.
 </p>
 
+<hr>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=synthwave)
 
-<br>
+<hr>
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -56,7 +58,7 @@
     </a>
 </p>
 
-<br>
+<hr>
 
 <table>
 <tr>
