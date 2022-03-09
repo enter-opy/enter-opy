@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="res/loki.gif" width="512">
+    <img src="res/loki.gif" width="512" border="2px">
 </p>
+
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=synthwave)
 
@@ -31,7 +33,11 @@
     </a>
 </p>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false&background_color=0d1117&border_color=ffffff)
+<br>
+
+[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=31112C&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
+
+<br>
 
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
