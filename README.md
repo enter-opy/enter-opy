@@ -64,9 +64,4 @@
 
 [![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=31112C&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
 </td>
-<td>
-<br><br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
-</td>
 </table>
