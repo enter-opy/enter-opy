@@ -1,14 +1,17 @@
 <p align="center">
-    <img src="res/loki.gif" width="512" border="2px">
+    <img src="res/loki.gif" width="384">
 </p>
-
-<br>
+    
+<p align="center" style="font-family: monospace;">
+    I am an Undergraduate in Computer Science and Engineering.
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=synthwave)
 
 <br>
+
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -33,17 +36,37 @@
     </a>
 </p>
 
-<br>
+<h3 align="center" style="font-family: monospace;">
+    I'd like to work together
+</h3>
 
-[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=31112C&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
-
-<br>
+<p align="center">
+    <img src="res/goblin.gif" width="256">
+</p>
 
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
-        <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="30" width="30" />
+        <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="30" width="30"/>
     </a>
     <a href="https://www.youtube.com/channel/UCOYrPMMtYwNTzaC2VKqSDiQ" target="blank">
-        <img align="center" src="res/youtube.svg" alt="vivek vijayan" height="40" width="40" />
+        <img align="center" src="res/youtube.svg" alt="vivek vijayan" height="40" width="40"/>
+    </a>
+    <a href="vivekvijayan6282@gmail.com" target="blank">
+        <img align="center" src="res/gmail.svg" alt="vivek vijayan" height="35" width="35"/>
     </a>
 </p>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=31112C&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
+</td>
+<td>
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
+</td>
+</table>
