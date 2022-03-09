@@ -33,8 +33,6 @@
 
 ![Spotify](https://novatorem-enter-opy.vercel.app/api/spotify)](https://open.spotify.com/user/bcgvqc145y8uw0a3zmri3eygw)
 
-</p>
-
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
         <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="30" width="30" />
