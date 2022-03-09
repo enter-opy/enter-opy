@@ -2,9 +2,9 @@
     <img src="res/loki.gif" width="512">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=shades-of-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=merko)
 
 <br>
 <p align="center">
@@ -34,7 +34,7 @@
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=bcgvqc145y8uw0a3zmri3eygw&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 </p>
 
-<p align="right">
+<p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
         <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="30" width="30" />
     </a>
