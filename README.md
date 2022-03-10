@@ -60,7 +60,7 @@
 
 <hr>
 
-<table align="center">
+<table align="center" border="0px>
     <tr>
         <td>
             <kbd><img src="res/dance.gif" width="108"></kbd>
