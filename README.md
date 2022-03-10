@@ -3,7 +3,7 @@
 </p>
     
 <p align="center" style="font-family: monospace;">
-    I am an Undergraduate in Computer Science and Engineering.
+    I am an undergraduate in Computer Science and Engineering.
 </p>
 
 <hr>
