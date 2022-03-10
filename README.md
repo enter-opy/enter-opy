@@ -61,7 +61,7 @@
 <hr>
 
 <table align="center">
-    <tr border="none">
+    <tr>
         <td>
             <kbd><img src="res/dance.gif" width="108"></kbd>
         </td>
