@@ -71,7 +71,7 @@
         </td>
 <td>
 
-[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=2b213a&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=000000&border=false)](https://open.spotify.com/user/USER_NAME)
 </td>
         <td>
             <img src="res/dance.gif" width="196">
