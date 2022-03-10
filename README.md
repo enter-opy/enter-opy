@@ -12,6 +12,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=synthwave)
 
+<a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=enter-opy&bg_color=white&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
+</a>
+
 <hr>
 
 <p align="center">
