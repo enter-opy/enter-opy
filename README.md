@@ -53,7 +53,7 @@
     <a href="https://www.youtube.com/channel/UCOYrPMMtYwNTzaC2VKqSDiQ" target="blank">
         <img align="center" src="res/youtube.svg" alt="vivek vijayan" height="40" width="40"/>
     </a>
-    <a href="vivekvijayan6282@gmail.com" target="blank">
+    <a href="https://mail.google.com/mail/u/?authuser=vivekvijayan6282@gmail.com" target="blank">
         <img align="center" src="res/gmail.svg" alt="vivek vijayan" height="35" width="35"/>
     </a>
 </p>
