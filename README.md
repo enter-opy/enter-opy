@@ -63,14 +63,14 @@
 <table align="center">
     <tr>
         <td>
-            <kbd><img src="res/dance.gif" width="108"></kbd>
+            <img src="res/dance.gif" width="196">
         </td>
 <td>
 
-[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=31112C&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-sable-eta.vercel.app/api/spotify?background_color=2b213a&border_color=ffffff)](https://open.spotify.com/user/USER_NAME)
 </td>
         <td>
-            <kbd><img src="res/dance.gif" width="108"></kbd>
+            <img src="res/dance.gif" width="196">
         </td>
     </tr>
 </table>
