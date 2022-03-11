@@ -16,6 +16,12 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enter-opy&theme=synthwave" alt="enter-opy" />
 </p>
 
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=enter-opy&theme=algolia" alt="enter-opy"/>
+    </a>
+</p>
+
 <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=enter-opy&bg_color=white&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
 </a>
@@ -95,9 +101,3 @@
         </td>
     </tr>
 </table>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=enter-opy&theme=algolia" alt="enter-opy"/>
-    </a>
-</p>
