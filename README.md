@@ -16,6 +16,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enter-opy&theme=synthwave" alt="enter-opy" />
 </p>
 
+<br>
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=enter-opy&theme=algolia" alt="enter-opy"/>
