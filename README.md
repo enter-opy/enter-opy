@@ -2,7 +2,7 @@
     <img src="res/loki.gif" width="384">
 </p>
     
-<p align="center" style="font-family: monospace;">
+<p align="center">
     I am an undergraduate in Computer Science and Engineering.
 </p>
 
@@ -11,6 +11,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enter-opy&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter-opy&theme=synthwave)
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enter-opy&theme=synthwave" alt="enter-opy" />
+</p>
 
 <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=enter-opy&bg_color=white&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
@@ -42,7 +46,20 @@
     </a>
 </p>
 
-<h3 align="center" style="font-family: monospace;">
+
+<p align="center">
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    </a>
+</p>
+
+<h3 align="center"">
     I'd like to work together
 </h3>
 
@@ -52,10 +69,10 @@
 
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
-        <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="30" width="30"/>
+        <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="35s" width="35"/>
     </a>
     <a href="https://www.youtube.com/channel/UCOYrPMMtYwNTzaC2VKqSDiQ" target="blank">
-        <img align="center" src="res/youtube.svg" alt="vivek vijayan" height="40" width="40"/>
+        <img align="center" src="res/youtube.svg" alt="vivek vijayan" height="35" width="35"/>
     </a>
     <a href="https://mail.google.com/mail/u/?authuser=vivekvijayan6282@gmail.com" target="blank">
         <img align="center" src="res/gmail.svg" alt="vivek vijayan" height="35" width="35"/>
@@ -78,3 +95,9 @@
         </td>
     </tr>
 </table>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=enter-opy&theme=algolia" alt="enter-opy"/>
+    </a>
+</p>
