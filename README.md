@@ -68,7 +68,7 @@
 </p>
 
 <h3 align="center"">
-    I'd like to work together
+    I'd like to work together🫂
 </h3>
 
 <p align="center">
