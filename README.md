@@ -75,6 +75,15 @@
     <img src="res/goblin.gif" width="256">
 </p>
 
+<p align="center">
+    <a href="https://www.hackerrank.com/vivekvijayan6282">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black">
+    </a>
+    <a href="https://leetcode.com/vivek_vijayan/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+    </a>
+</p>
+
 <p align="center"">
     <a href="https://linkedin.com/in/vivek-vijayan-062a18212" target="blank">
         <img align="center" src="res/linkedin.svg" alt="vivek-vijayan-062a18212" height="35s" width="35"/>
