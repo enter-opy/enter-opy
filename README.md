@@ -125,8 +125,8 @@
     </tr>
 </table>
 
-<h4>Want to vibe like this?☝️</h4>
-<p>
+<h4 align="center">Want to vibe like this☝️?</h4>
+<p align="center">
     <a href="https://soundcloud.com/user-633095569" target="blank">
         <img align="center" src="res/soundcloud.svg" alt="vivek-vijayan-062a18212" height="120" width="120"/>
     </a>
