@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="res/soundcloud.svg" alt="c" width="500" height="500"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -128,6 +128,6 @@
 <h4>Want to vibe like this?☝️</h4>
 <p>
     <a href="https://soundcloud.com/user-633095569" target="blank">
-        <img align="center" src="res/soundcloud.svg" alt="vivek-vijayan-062a18212" height="35s" width="35"/>
+        <img align="center" src="res/soundcloud.svg" alt="vivek-vijayan-062a18212" height="120" width="120"/>
     </a>
 </p>
